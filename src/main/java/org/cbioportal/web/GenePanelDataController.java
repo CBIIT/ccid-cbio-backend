@@ -104,3 +104,4 @@ public class GenePanelDataController {
         
         return new ResponseEntity<>(genePanelDataList, HttpStatus.OK);
     }
+}
